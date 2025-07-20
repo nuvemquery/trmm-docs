@@ -33,7 +33,7 @@ Copy the backup tarball you created during [backup](backup.md) to the new server
 Download the restore script:
 
 ```bash
-wget -N https://raw.githubusercontent.com/amidaware/tacticalrmm/master/restore.sh
+wget -N https://raw.githubusercontent.com/nuvemquery/tacticalrmm/master/restore.sh
 chmod +x restore.sh
 ```
 

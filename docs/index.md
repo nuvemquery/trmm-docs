@@ -1,11 +1,11 @@
 # Tactical RMM Documentation
 
-![CI Tests](https://github.com/amidaware/tacticalrmm/actions/workflows/ci-tests.yml/badge.svg?branch=develop)
+![CI Tests](https://github.com/nuvemquery/tacticalrmm/actions/workflows/ci-tests.yml/badge.svg?branch=develop)
 [![codecov](https://codecov.io/gh/amidaware/tacticalrmm/branch/develop/graph/badge.svg?token=8ACUPVPTH6)](https://codecov.io/gh/amidaware/tacticalrmm)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 
 Tactical RMM is a remote monitoring & management tool built with Django, Vue and Golang.
-It uses an [agent](https://github.com/amidaware/rmmagent) written in Golang and integrates with [MeshCentral](https://github.com/Ylianst/MeshCentral).
+It uses an [agent](https://github.com/nuvemquery/rmmagent) written in Golang and integrates with [MeshCentral](https://github.com/Ylianst/MeshCentral).
 
 ## [LIVE DEMO](https://demo.tacticalrmm.com/)
 
@@ -47,24 +47,24 @@ It uses an [agent](https://github.com/amidaware/rmmagent) written in Golang and 
 
 Join us on [Discord](https://discord.gg/upGTkWp) for (help/tips/discussion/dev chat/social etc). This is the primary method of discussing all things Tactical RMM.
 
-_[Github Discussions](https://github.com/amidaware/tacticalrmm/discussions): is a distant 2nd option, we will frequently request you join Discord if you're requesting help or troubleshooting issues with your installation._
+_[Github Discussions](https://github.com/nuvemquery/tacticalrmm/discussions): is a distant 2nd option, we will frequently request you join Discord if you're requesting help or troubleshooting issues with your installation._
 
-[Github Issues](https://github.com/amidaware/tacticalrmm/issues): Report bugs you discover with clear write-ups on how to reproduce problems. Also submit enhancement/feature requests here.
+[Github Issues](https://github.com/nuvemquery/tacticalrmm/issues): Report bugs you discover with clear write-ups on how to reproduce problems. Also submit enhancement/feature requests here.
 
-[View useful scripts](https://github.com/amidaware/community-scripts) to be used in Tactical RMM.
+[View useful scripts](https://github.com/nuvemquery/community-scripts) to be used in Tactical RMM.
 
-Check out [Awesome](https://github.com/amidaware/trmm-awesome) additions from the community.
+Check out [Awesome](https://github.com/nuvemquery/trmm-awesome) additions from the community.
 
 ## Github Repos
 
-Main Code Repo: <https://github.com/amidaware/tacticalrmm>
+Main Code Repo: <https://github.com/nuvemquery/tacticalrmm>
 
-Main Web admin frontend: <https://github.com/amidaware/tacticalrmm-web>
+Main Web admin frontend: <https://github.com/nuvemquery/tacticalrmm-web>
 
-Tactical Agent Source: <https://github.com/amidaware/rmmagent>
+Tactical Agent Source: <https://github.com/nuvemquery/rmmagent>
 
-Community Scripts: <https://github.com/amidaware/community-scripts>
+Community Scripts: <https://github.com/nuvemquery/community-scripts>
 
-<https://docs.tacticalrmm.com> source: <https://github.com/amidaware/trmm-docs>
+<https://docs.tacticalrmm.com> source: <https://github.com/nuvemquery/trmm-docs>
 
-Awesome contributions from the community: <https://github.com/amidaware/trmm-awesome>
+Awesome contributions from the community: <https://github.com/nuvemquery/trmm-awesome>

@@ -1,7 +1,7 @@
 # Building with Docker
 
 ```
-git clone https://github.com/amidaware/trmm-docs.git
+git clone https://github.com/nuvemquery/trmm-docs.git
 cd trmm-docs
 ./build.sh
 ```
@@ -9,7 +9,7 @@ cd trmm-docs
 # Building standard
 
 ```
-git clone https://github.com/amidaware/trmm-docs.git
+git clone https://github.com/nuvemquery/trmm-docs.git
 cd trmm-docs
 python3 -m venv env
 source env/bin/activate

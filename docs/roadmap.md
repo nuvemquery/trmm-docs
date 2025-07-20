@@ -10,12 +10,12 @@ Thanks go to all you [sponsors](sponsor.md#sponsor-with-stripe-or-paypal) it's y
         "title": "Estimated Release Dates",
         "activities": [
             {
-                "title": "[Windows Update](https://github.com/amidaware/tacticalrmm/issues/1188) Rework",
+                "title": "[Windows Update](https://github.com/nuvemquery/tacticalrmm/issues/1188) Rework",
                 "start": "2024-11-01",
                 "lasts": "6 months"
             },
             {
-                "title": "[White labeling](https://github.com/amidaware/tacticalrmm/issues/463) labeling",
+                "title": "[White labeling](https://github.com/nuvemquery/tacticalrmm/issues/463) labeling",
                 "start": "2025-01-01",
                 "lasts": "6 months"
             }

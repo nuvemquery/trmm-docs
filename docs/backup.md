@@ -18,12 +18,12 @@
 A backup script is provided for quick and easy way to backup all settings/data into one file to migrate to another server.
 
 !!!warning
-    The backup script does **not** self update itself. Always make sure you have latest version from the [master](https://github.com/amidaware/tacticalrmm/blob/master/backup.sh) branch by verifying the `SCRIPT_VERSION` at the top of the file matches.
+    The backup script does **not** self update itself. Always make sure you have latest version from the [master](https://github.com/nuvemquery/tacticalrmm/blob/master/backup.sh) branch by verifying the `SCRIPT_VERSION` at the top of the file matches.
 
 Make sure you are logged into the user you used to install TRMM eg `tactical`. Then download and run the backup script:
 
 ```bash
-wget -N https://raw.githubusercontent.com/amidaware/tacticalrmm/master/backup.sh
+wget -N https://raw.githubusercontent.com/nuvemquery/tacticalrmm/master/backup.sh
 chmod +x backup.sh
 ./backup.sh
 ```
